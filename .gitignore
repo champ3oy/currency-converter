@@ -1,0 +1,11 @@
+# Ignore all node_modules directories
+**/node_modules/
+
+**/dist
+**/build
+**/.next/
+**/out/
+
+# Ignore all log files
+*.env
+next-env.d.ts
